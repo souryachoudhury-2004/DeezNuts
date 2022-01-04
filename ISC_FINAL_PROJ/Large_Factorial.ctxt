@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Large_Factorial
+comment1.params=n
+comment1.target=void\ factorial(int)
+comment2.params=x\ res\ res_size
+comment2.target=int\ multiply(int,\ int[],\ int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4
